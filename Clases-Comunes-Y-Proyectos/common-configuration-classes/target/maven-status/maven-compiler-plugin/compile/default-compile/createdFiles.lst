@@ -1,0 +1,4 @@
+commonclasses\configuracion\Configuration.class
+commonclasses\persona\Persona.class
+commonclasses\animal\Animal.class
+commonclasses\App.class

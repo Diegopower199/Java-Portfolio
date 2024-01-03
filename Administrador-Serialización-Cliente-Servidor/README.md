@@ -1,0 +1,1 @@
+# Administrador de serialización cliente-servidor (Client-server serialization manager)
