@@ -68,6 +68,3 @@ public class Main {
         }
     }
 }
-
-// MIRAR ESTO:
-// https://chat.openai.com/share/26da1408-76b2-40d1-9cc7-77a4b5bd8c09
