@@ -26,9 +26,3 @@ Para eliminar una carpeta .git se hace de la siguiente manera
 2. git clean -fdX
 
     - Limpiará tu directorio de trabajo al eliminar archivos y directorios no rastreados, incluyendo aquellos que están en la lista de ignorados definida en .gitignore
-
-
-
-
-TENER EN CUENTA ESTO PARA TODOS LOS PROYECTOS QUE HAGA:
-https://chat.openai.com/share/c33d49c0-a49a-4046-9b9c-6efa4218ee4e
