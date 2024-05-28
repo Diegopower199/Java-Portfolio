@@ -1,0 +1,5 @@
+void main {
+int a, b, c, d; 
+float x, y, z;
+int [10] v;
+}

@@ -2,3 +2,8 @@ ejercicios-por-hacer.txt
 anotaciones.txt
 proyeccionesSpringBoot.txt
 Video-Explicacion-Proyecciones-Spring-Boot-Java.mp4
+
+lib/
+bin/
+*.vscode
+*.class
