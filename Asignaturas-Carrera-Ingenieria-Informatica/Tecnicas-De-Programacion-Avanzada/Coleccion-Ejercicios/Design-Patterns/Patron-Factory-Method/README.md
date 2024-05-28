@@ -1,0 +1,1 @@
+# Patron factory method

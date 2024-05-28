@@ -1,4 +1,3 @@
-
 Realizar una aplicación Java que lea el fichero Constitucion1812.txt. El funcionamiento de esta aplicación será el siguiente: 
 
 1. Se utilizará un hilo para contar las palabras que hay en el fichero.  
