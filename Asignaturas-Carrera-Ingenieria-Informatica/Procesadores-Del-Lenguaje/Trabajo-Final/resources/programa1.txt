@@ -1,7 +1,7 @@
 void main {
  int [10] f;
  
- // sucesión de Fibonacci
+ // sucesiÃ³n de Fibonacci
  
  f[0] = 0;
  f[1] = 1;
